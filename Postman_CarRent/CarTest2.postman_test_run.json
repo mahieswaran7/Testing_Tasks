@@ -1,0 +1,133 @@
+{
+	"id": "6a3c6b29-3e4a-4388-b810-f76939ffb4fb",
+	"name": "CarTest2",
+	"timestamp": "2024-07-04T11:07:14.601Z",
+	"collection_id": "36734994-0a8a1496-c713-4dad-938a-56ecf369c039",
+	"folder_id": 0,
+	"environment_id": "36734994-2c575a06-56a1-403d-a908-e7630338b62b",
+	"totalPass": 21,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T11:07:11.626Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "a93cd08c-e4ce-46e4-8a23-54c3567fa509",
+			"name": "Login",
+			"url": "http://localhost:8888/users",
+			"time": 17,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 21,
+					"fail": 0
+				}
+			},
+			"times": [
+				20,
+				80,
+				21,
+				16,
+				17,
+				16,
+				14,
+				26,
+				17,
+				21,
+				20,
+				17,
+				20,
+				17,
+				17,
+				18,
+				15,
+				15,
+				17,
+				18,
+				17
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 21,
+	"totalTime": 439,
+	"collection": {
+		"requests": [
+			{
+				"id": "a93cd08c-e4ce-46e4-8a23-54c3567fa509",
+				"method": "POST"
+			}
+		]
+	}
+}

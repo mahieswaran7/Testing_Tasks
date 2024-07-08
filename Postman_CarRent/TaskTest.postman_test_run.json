@@ -1,0 +1,332 @@
+{
+	"id": "89ba2651-bba8-4b2f-873b-f75d403c0c4c",
+	"name": "TaskTest",
+	"timestamp": "2024-07-04T05:51:34.363Z",
+	"collection_id": "36734994-89865890-b726-44ef-8f6a-8df78384d0ab",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T05:51:26.547Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "03e4e742-3191-44d8-a2d2-b4fccbb7aaf4",
+			"name": "SSNHome",
+			"url": "https://www.ssn.edu.in/",
+			"time": 767,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				767
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "660eee37-054a-4a56-8d0c-1ab1da2395c1",
+			"name": "SSNScholarships",
+			"url": "https://www.ssn.edu.in/life-at-ssn-scholarships/",
+			"time": 557,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				557
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "566cdd52-6acc-4bd9-97ee-40430615c86a",
+			"name": "SSNPlacements",
+			"url": "https://www.ssn.edu.in/placements/",
+			"time": 666,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				666
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ca39f6dd-b073-4bcb-b0d5-d9020496ca7b",
+			"name": "SSNCarrers",
+			"url": "https://www.ssn.edu.in/career-ssn/",
+			"time": 561,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				561
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "8070ab0c-7797-405b-8031-8de4110ecc4b",
+			"name": "SSNAlumni",
+			"url": "https://www.ssn.edu.in/alumni-relations-office/",
+			"time": 580,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				580
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "b5d5b041-348d-4195-8bb7-20ae95d27b2d",
+			"name": "SSNReports",
+			"url": "https://www.ssn.edu.in/naac-reports/",
+			"time": 469,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				469
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "70a73e82-bb02-45f6-8ada-66315ed05691",
+			"name": "SSN_NAAC",
+			"url": "https://www.ssn.edu.in/naac/",
+			"time": 592,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				592
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "c05a70d2-c1fc-4e9d-a2f1-669ef3c67f3a",
+			"name": "SSNContact",
+			"url": "https://www.ssn.edu.in/contact-us-main/",
+			"time": 527,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				527
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "5dd3a527-6c65-4460-bef5-04fa4c35c0bc",
+			"name": "SSNAdmissions",
+			"url": "https://www.ssn.edu.in/admissions/",
+			"time": 458,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				458
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "63de4df6-5a49-4f4b-be67-73ca3771bf12",
+			"name": "SSNResearch",
+			"url": "https://www.ssn.edu.in/research-centre-ssn-institutions/",
+			"time": 909,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				909
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 6086,
+	"collection": {
+		"requests": [
+			{
+				"id": "03e4e742-3191-44d8-a2d2-b4fccbb7aaf4",
+				"method": "GET"
+			},
+			{
+				"id": "660eee37-054a-4a56-8d0c-1ab1da2395c1",
+				"method": "GET"
+			},
+			{
+				"id": "566cdd52-6acc-4bd9-97ee-40430615c86a",
+				"method": "GET"
+			},
+			{
+				"id": "ca39f6dd-b073-4bcb-b0d5-d9020496ca7b",
+				"method": "GET"
+			},
+			{
+				"id": "8070ab0c-7797-405b-8031-8de4110ecc4b",
+				"method": "GET"
+			},
+			{
+				"id": "b5d5b041-348d-4195-8bb7-20ae95d27b2d",
+				"method": "GET"
+			},
+			{
+				"id": "70a73e82-bb02-45f6-8ada-66315ed05691",
+				"method": "GET"
+			},
+			{
+				"id": "c05a70d2-c1fc-4e9d-a2f1-669ef3c67f3a",
+				"method": "GET"
+			},
+			{
+				"id": "5dd3a527-6c65-4460-bef5-04fa4c35c0bc",
+				"method": "GET"
+			},
+			{
+				"id": "63de4df6-5a49-4f4b-be67-73ca3771bf12",
+				"method": "GET"
+			}
+		]
+	}
+}

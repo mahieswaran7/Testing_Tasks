@@ -1,0 +1,29 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719922971037,2844,Families,200,OK,Thread Group 1-1,text,true,,78787,424,1,1,https://www.utexas.edu/family-and-visitor-resources,408,0,357
+1719922971037,431,Families-0,301,Moved Permanently,Thread Group 1-1,text,true,,744,140,1,1,http://utexas.edu/family-and-visitor-resources,408,0,357
+1719922971471,1648,Families-1,301,Moved Permanently,Thread Group 1-1,text,true,,646,140,1,1,https://utexas.edu/family-and-visitor-resources,1648,0,1641
+1719922973120,761,Families-2,200,OK,Thread Group 1-1,text,true,,77397,144,1,1,https://www.utexas.edu/family-and-visitor-resources,720,0,341
+1719922973886,437,CurrentStudent,404,Not Found,Thread Group 1-1,text,false,,68840,475,1,1,https://www.utexas.edu/idp/profile/SAML2/Redirect/SSO?execution=e5s1,50,0,0
+1719922973886,50,CurrentStudent-0,301,Moved Permanently,Thread Group 1-1,text,true,,761,157,1,1,http://utexas.edu/idp/profile/SAML2/Redirect/SSO?execution=e5s1,50,0,0
+1719922973936,6,CurrentStudent-1,301,Moved Permanently,Thread Group 1-1,text,true,,658,157,1,1,https://utexas.edu/idp/profile/SAML2/Redirect/SSO?execution=e5s1,6,0,0
+1719922973943,380,CurrentStudent-2,404,Not Found,Thread Group 1-1,text,false,,67421,161,1,1,https://www.utexas.edu/idp/profile/SAML2/Redirect/SSO?execution=e5s1,368,0,0
+1719922974327,374,Admissions,200,OK,Thread Group 1-1,text,true,,84223,421,1,1,https://www.utexas.edu/faculty-and-staff-resources,51,0,0
+1719922974327,51,Admissions-0,301,Moved Permanently,Thread Group 1-1,text,true,,743,139,1,1,http://utexas.edu/faculty-and-staff-resources,51,0,0
+1719922974378,7,Admissions-1,301,Moved Permanently,Thread Group 1-1,text,true,,643,139,1,1,https://utexas.edu/faculty-and-staff-resources,7,0,0
+1719922974385,316,Admissions-2,200,OK,Thread Group 1-1,text,true,,82837,143,1,1,https://www.utexas.edu/faculty-and-staff-resources,302,0,0
+1719922974704,425,Campus,200,OK,Thread Group 1-1,text,true,,85452,424,1,1,https://www.utexas.edu/campus-life/arts-and-culture,53,0,0
+1719922974704,53,Campus-0,301,Moved Permanently,Thread Group 1-1,text,true,,744,140,1,1,http://utexas.edu/campus-life/arts-and-culture,53,0,0
+1719922974758,7,Campus-1,301,Moved Permanently,Thread Group 1-1,text,true,,644,140,1,1,https://utexas.edu/campus-life/arts-and-culture,7,0,0
+1719922974765,364,Campus-2,200,OK,Thread Group 1-1,text,true,,84064,144,1,1,https://www.utexas.edu/campus-life/arts-and-culture,353,0,0
+1719922975131,376,Research,200,OK,Thread Group 1-1,text,true,,81302,415,1,1,https://www.utexas.edu/research/student-research,53,0,0
+1719922975131,54,Research-0,301,Moved Permanently,Thread Group 1-1,text,true,,741,137,1,1,http://utexas.edu/research/student-research,53,0,0
+1719922975185,8,Research-1,301,Moved Permanently,Thread Group 1-1,text,true,,640,137,1,1,https://utexas.edu/research/student-research,8,0,0
+1719922975193,314,Research-2,200,OK,Thread Group 1-1,text,true,,79921,141,1,1,https://www.utexas.edu/research/student-research,304,0,0
+1719922975508,390,Alumini,200,OK,Thread Group 1-1,text,true,,88035,388,1,1,https://www.utexas.edu/alumni-resources,52,0,0
+1719922975508,52,Alumini-0,301,Moved Permanently,Thread Group 1-1,text,true,,732,128,1,1,http://utexas.edu/alumni-resources,52,0,0
+1719922975560,8,Alumini-1,301,Moved Permanently,Thread Group 1-1,text,true,,632,128,1,1,https://utexas.edu/alumni-resources,8,0,0
+1719922975568,330,Alumini-2,200,OK,Thread Group 1-1,text,true,,86671,132,1,1,https://www.utexas.edu/alumni-resources,317,0,0
+1719922975900,327,About,200,OK,Thread Group 1-1,text,true,,83693,397,1,1,https://www.utexas.edu/content/about-texas,56,0,0
+1719922975900,56,About-0,301,Moved Permanently,Thread Group 1-1,text,true,,736,131,1,1,http://utexas.edu/content/about-texas,56,0,0
+1719922975956,6,About-1,301,Moved Permanently,Thread Group 1-1,text,true,,635,131,1,1,https://utexas.edu/content/about-texas,6,0,0
+1719922975963,264,About-2,200,OK,Thread Group 1-1,text,true,,82322,135,1,1,https://www.utexas.edu/content/about-texas,250,0,0
